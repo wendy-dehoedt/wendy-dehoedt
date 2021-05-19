@@ -1,4 +1,4 @@
-### Hi there It's Wendy 👋
+### Hi there it's Wendy 👋
 
 <!--
 **wendy-dehoedt/wendy-dehoedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
